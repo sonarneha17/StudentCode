@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: StudentCode
+  annotations:
+    github.com/project-slug: sonarneha17/StudentCode
+spec:
+  type: other
+  lifecycle: unknown
+  owner: neha
